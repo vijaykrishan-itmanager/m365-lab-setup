@@ -38,3 +38,7 @@ This environment is used to practice:
 ## Status
 
 🚧 Lab Setup In Progress
+
+## Day 2 Update 
+Validating Micrososoft 365 Developer 
+Sandbox eligibility.
