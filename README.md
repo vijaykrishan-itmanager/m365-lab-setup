@@ -42,3 +42,23 @@ This environment is used to practice:
 ## Day 2 Update 
 Validating Micrososoft 365 Developer 
 Sandbox eligibility.
+## Lab Architecture
+
+### Identity Layer
+- Microsoft Entra ID (Azure AD)
+- User & Group Management
+- Role-Based Access Control (RBAC)
+
+### Security Layer
+- Conditional Access Policies
+- MFA Enforcement
+- Zero Trust Configuration
+
+### Collaboration Layer
+- Microsoft Teams
+- SharePoint Online
+- Exchange Online
+
+### Automation & Management
+- PowerShell Administration
+- GitHub Documentation Tracking
